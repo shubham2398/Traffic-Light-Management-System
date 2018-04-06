@@ -1,0 +1,12 @@
+<connections>
+	<connection from="edge1to0" to="edge0to3" />
+	<connection from="edge3to0" to="edge0to1" />
+	<connection from="edge2to0" to="edge0to4" />
+	<connection from="edge4to0" to="edge0to2" />
+
+	<connection from="edge5to3" to="edge3to6" />
+	<connection from="edge6to3" to="edge3to5" />
+	<connection from="edge0to3" to="edge3to7" />
+	<connection from="edge7to3" to="edge3to0" />
+	
+</connections>

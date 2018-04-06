@@ -1,0 +1,14 @@
+<additional>
+
+<inductionLoop id="1" lane="edge0to3_0" pos="0" freq="30" file="out.xml" friendlyPos="x" />
+<inductionLoop id="3" lane="edge0to1_0" pos="0" freq="30" file="out.xml" friendlyPos="x"/>
+<inductionLoop id="0" lane="edge0to2_0" pos="0" freq="30" file="out.xml" friendlyPos="x" />
+<inductionLoop id="2" lane="edge0to4_0" pos="0" freq="30" file="out.xml" friendlyPos="x"/>
+
+<inductionLoop id="5" lane="edge3to7_0" pos="0" freq="30" file="out.xml" friendlyPos="x" />
+<inductionLoop id="7" lane="edge3to0_0" pos="0" freq="30" file="out.xml" friendlyPos="x"/>
+<inductionLoop id="4" lane="edge3to5_0" pos="0" freq="30" file="out.xml" friendlyPos="x" />
+<inductionLoop id="6" lane="edge3to6_0" pos="0" freq="30" file="out.xml" friendlyPos="x"/>
+
+
+</additional>
